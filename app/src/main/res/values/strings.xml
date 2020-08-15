@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fantasy Captain</string>
+    <string name="no_results">"No Results Found"</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>
